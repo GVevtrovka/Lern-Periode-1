@@ -10,17 +10,21 @@
 
 4. Was wäre ein geeignetes Projekt für diese LP1?
 
-*Ich würde ein Zahlenratespiel machen, wo ich eine Zahl erraten muss, dabei will ich hauptsächlich lernen Zufall in Programme einzubetten.*
+*Ich würde ein Zahlenratespiel machen, wo ich eine Zahl erraten muss, dabei will ich hauptsächlich lernen Zufall in Programme einzubetten. Zusätzlich halte ich deises Projekt für machbar und lehrreich.*
 
-## 23.82024
+## 23.8.2024
 
 
 
-## 30.82024
+## 30.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Am nächsten Freitag werde ich versuchen mir das benötigte wissen anzueignen und werde versuchen es an Beispielen ausprobieren versuchen.
+
+# 6.9.2024
+- [ ] Ich werde versuchen an ersten Prototypen zu proben, ob meine Gedanken in Realität umsetzbar sind.
+
+# 13.9.34
+- [ ] Wenn diese Vorprototypen funktionieren und alles sauber funktioniert, werde ich die Ausgangsversion programmieren und erproben.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
