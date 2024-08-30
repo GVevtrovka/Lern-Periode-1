@@ -14,9 +14,9 @@
 
 ## 23.8.2024
 ## 30.8.2024:
-Ich habe mir versucht neues Wissen anzueignen.
-Ich kann jetzt z.b. zufallszahlen generieren.
-Ich hätte die Zeit jedoch ganz wenig mehr nutzen sollen aus meiner Sicht.
+* Ich habe mir versucht neues Wissen anzueignen.
+* Ich kann jetzt z.b. zufallszahlen generieren.
+* Ich hätte die Zeit jedoch ganz wenig mehr nutzen sollen aus meiner Sicht.
 
 
 
