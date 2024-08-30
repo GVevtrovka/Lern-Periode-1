@@ -13,12 +13,16 @@
 *Ich würde ein Zahlenratespiel machen, wo ich eine Zahl erraten muss, dabei will ich hauptsächlich lernen Zufall in Programme einzubetten. Zusätzlich halte ich deises Projekt für machbar und lehrreich.*
 
 ## 23.8.2024
+## 30.8.2024:
+Ich habe mir versucht neues Wissen anzueignen.
+Ich kann jetzt z.b. zufallszahlen generieren.
+Ich hätte die Zeit jedoch ganz wenig mehr nutzen sollen aus meiner Sicht.
 
 
 
 ## 30.8.2024
 
-- [ ] Am nächsten Freitag werde ich versuchen mir das benötigte wissen anzueignen und werde versuchen es an Beispielen ausprobieren versuchen.
+- [x] Am nächsten Freitag werde ich versuchen mir das benötigte wissen anzueignen und werde versuchen es an Beispielen ausprobieren versuchen.
 
 # 6.9.2024
 - [ ] Ich werde versuchen an ersten Prototypen zu proben, ob meine Gedanken in Realität umsetzbar sind.
