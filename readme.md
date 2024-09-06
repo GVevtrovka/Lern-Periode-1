@@ -25,7 +25,9 @@
 - [x] Am nächsten Freitag werde ich versuchen mir das benötigte wissen anzueignen und werde versuchen es an Beispielen ausprobieren versuchen.
 
 # 6.9.2024
-- [ ] Ich werde versuchen an ersten Prototypen zu proben, ob meine Gedanken in Realität umsetzbar sind und werde mir allenfalls neues Wissen aneignen durch Google un nicht Chat GPT, da ich mir seit Anfang vorgenommen habe dieses nicht zu verwenden.
+- [ ] Ich möchte das Programm heute womöglich so weit wie möglich bringen.
+- [ ] Ich möchte es so weit bringen, dass ich das nächste Mal wenn möglich nur noch ausbessern muss.
+- [ ] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
 
 # 13.9.34
 - [ ] Wenn diese Vorprototypen funktionieren und alles sauber funktioniert, werde ich die Ausgangsversion programmieren und erproben.
