@@ -25,13 +25,14 @@
 - [x] Am nächsten Freitag werde ich versuchen mir das benötigte wissen anzueignen und werde versuchen es an Beispielen ausprobieren versuchen.
 
 # 6.9.2024
-- [ ] Ich möchte das Programm heute womöglich so weit wie möglich bringen.
-- [ ] Ich möchte es so weit bringen, dass ich das nächste Mal wenn möglich nur noch ausbessern muss.
-- [ ] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
+- [x] Ich möchte das Programm heute womöglich so weit wie möglich bringen.
+- [x] Ich möchte es so weit bringen, dass ich das nächste Mal wenn möglich nur noch ausbessern muss.
+- [x] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
 
 # 13.9.34
-- [ ] Wenn diese Vorprototypen funktionieren und alles sauber funktioniert, werde ich die Ausgangsversion programmieren und erproben.
-
+- [ ] Ergänzend müssen jetzt noch die letzten Fehler ins Visier genommen werden, also erkannt werden.
+- [ ] Zusätzlich möchte ich diese jetzt endgültig beheben, sodass das Programm fehlerlos funktioniert.
+- [ ] Ich möchte das Programm dann noch erproben und abgeben
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
