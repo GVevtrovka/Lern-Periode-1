@@ -29,10 +29,17 @@
 - [x] Ich möchte es so weit bringen, dass ich das nächste Mal wenn möglich nur noch ausbessern muss.
 - [x] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
 
-# 13.9.34
-- [ ] Ergänzend müssen jetzt noch die letzten Fehler ins Visier genommen werden, also erkannt werden.
-- [ ] Zusätzlich möchte ich diese jetzt endgültig beheben, sodass das Programm fehlerlos funktioniert.
-- [ ] Ich möchte das Programm dann noch erproben und abgeben
+# 13.9.2025
+- [x] Ergänzend müssen jetzt noch die letzten Fehler ins Visier genommen werden, also erkannt werden.
+- [x] Zusätzlich möchte ich diese jetzt endgültig beheben, sodass das Programm fehlerlos funktioniert.
+- [x] Ich möchte das Programm dann noch erproben und abgeben
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich erfolgreich das "Grundprogramm Erarbeitet". Zusätzlich habe ich noch von der Ausgabe her geschaut, dass es auch übersichtlich und gut ausschaut.
+Ich habe heute Lerngespräch durchgefürt und im ganzen bin ich ziemlich zufrieden mit meinem heutigen Fortschritt. Ich habe für bestimmte Probleme das Internet (nicht Chat GPT) verwendet und mir auch etwas neues Wissen angeeignet.
+
+# 20.9.2024
+-[ ] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
+-[ ] Ich möchte ebenfalls machen, dass es keine allgemeine Fehlermeldung mehr gibt für strings, zu kleine Zahlen oder zu grosse Zahlen.
+-[ ] Zusätzlich möchte ich allenfalls spontane verbesserungen vornehmen.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
