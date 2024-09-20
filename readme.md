@@ -38,8 +38,15 @@ Heute habe ich erfolgreich das "Grundprogramm Erarbeitet". Zusätzlich habe ich 
 Ich habe heute Lerngespräch durchgefürt und im ganzen bin ich ziemlich zufrieden mit meinem heutigen Fortschritt. Ich habe für bestimmte Probleme das Internet (nicht Chat GPT) verwendet und mir auch etwas neues Wissen angeeignet.
 
 # 20.9.2024
-- [ ] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
-- [ ] Ich möchte ebenfalls machen, dass es keine allgemeine Fehlermeldung mehr gibt für strings, zu kleine Zahlen oder zu grosse Zahlen.
+- [x] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
+- [x] Ich möchte ebenfalls machen, dass es keine allgemeine Fehlermeldung mehr gibt für strings, zu kleine Zahlen oder zu grosse Zahlen.
+- [x] Ich habe bei meinem Projekt sogar noche eine Kleinigkeit ergänzt.
+Ich bin heute gut vorangekommen, habe allenfalls ein Paar fehler korrigiert und habe alle vorgenommenen Veränderungen erfolgreich umgesetzt und eine persönliche ergänzung noch angefügt. Die Heutigen Änderungen umfassen die Individuelle Fehlermeldung für bestimmte Fehlertypen und einen Zähler für die Anzahl Rateversuchen. In dem Sinne ist mein Projekt jetzt fertig und das sogar zeitlich! Mein Random-Number Guesser ist jetzt auch verständlich für Personen, welche den sinne des Random-Number Gueser noch nicht verstehen verständlich.
+Hier noch einen Einblick:
+![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
-✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+✍️ Heute habe ich... (50-100 Wörter)
+
+
+# Reflexion
