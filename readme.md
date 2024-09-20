@@ -50,3 +50,8 @@ Hier noch einen Einblick:
 
 
 # Reflexion
+- Ich bin mit meinem ersten Projekt sehr zufrieden, was das Ergebnis angeht.
+- Ich hatte während der Umsetzung aber oftmals Mommente gehabt, wo ich wegen einem logischen Fehler einfach stehen geblieben bin.
+- Für das nächste mal nehme ich mir vor nachzufragen, wenn ich an einem Punkt nicht weiter komme.
+- Ebenfalls möchte ich das nächste mal ganz wenig ehrgeiziger arbeiten (war am Anfang vielleicht noch ein erwähnbares Problem).
+- Wenn ich all das so tue, dann werde ich effizienter sein in de Umsetzung von Projekten.
