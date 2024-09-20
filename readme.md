@@ -40,7 +40,6 @@ Ich habe heute Lerngespräch durchgefürt und im ganzen bin ich ziemlich zufried
 # 20.9.2024
 - [ ] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
 - [ ] Ich möchte ebenfalls machen, dass es keine allgemeine Fehlermeldung mehr gibt für strings, zu kleine Zahlen oder zu grosse Zahlen.
-- [ ] Zusätzlich möchte ich allenfalls spontane verbesserungen vornehmen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
