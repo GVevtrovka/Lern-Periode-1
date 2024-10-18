@@ -43,7 +43,6 @@ namespace ConsoleApp8
                     Console.WriteLine("Right Number");
                     repeat = false;
                 }
-
             }
         }
     }
