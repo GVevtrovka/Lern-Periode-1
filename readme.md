@@ -43,7 +43,11 @@ Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 - [x] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
 - [x] Ich möchte ebenfalls machen, dass es keine allgemeine Fehlermeldung mehr gibt für strings, zu kleine Zahlen oder zu grosse Zahlen.
 - [x] Ich habe bei meinem Projekt sogar noche eine Kleinigkeit ergänzt.
-Ich bin heute gut vorangekommen, habe allenfalls ein Paar fehler korrigiert und habe alle vorgenommenen Veränderungen erfolgreich umgesetzt und eine persönliche ergänzung noch angefügt. Die Heutigen Änderungen umfassen die Individuelle Fehlermeldung für bestimmte Fehlertypen und einen Zähler für die Anzahl Rateversuchen. In dem Sinne ist mein Projekt jetzt fertig und das sogar zeitlich! Mein Random-Number Guesser ist jetzt auch verständlich für Personen, welche den sinne des Random-Number Gueser noch nicht verstehen verständlich.
+* Ich bin gut vorangekommen mit meinen heutigen Zielen.
+* Ich habe vorhandene Fehler behoben.
+* Ich habe die vorgenommenen Extras auch ins Programm hinzugefügt.
+* Es gibt jetzt für jeden Fehler eine eigene Fehlermeldung und einen Zähler, wieviel du geraten hast.
+Man kann jetzt sagen, dass ich fertig bin mit meinem Projekt.
 Hier noch einen Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
