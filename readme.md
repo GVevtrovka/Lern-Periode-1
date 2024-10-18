@@ -59,6 +59,12 @@ Mein Projekt ist jetzt so gut, wie fertig
 
 
 # Fertiges Projekt
+Beschreibung:
+* Mein neuer Random Number Guesser ist das Ergebnis meines ersten Lernatelier-Projekt.
+* Funktionen umfangen eine Fehlermeldung für Strings, zu grosse oder zu kleine Zahlen, welche nicht eingegeben werden sollen und ein Zähler, wieviel du geraten hasat, um an das Ergebnis zu kommen.
+* Das Programm hat eine Schwäche und zwar die Pausen, welche ich eingefügt haben machen leicht Probleme.
+
+Hier ein kleiner Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
 # Reflexion
