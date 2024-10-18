@@ -27,7 +27,7 @@
 - [x] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
 * Ich konnte heute einigermasse einen Fortschritt erzielen.
 * Ein gigantischer Fortschritt konnte aber noch nicht erzielt werden, da noch kein funktionierendes Programm entstand.
-Dies ist aber kein Problem, da dies auch noch nicht auf heute geplant war.
+  Dies ist aber kein Problem, da dies auch noch nicht auf heute geplant war.
 
 # 13.9.2025
 - [x] Ergänzend müssen jetzt noch die letzten Fehler ins Visier genommen werden, also erkannt werden.
@@ -37,7 +37,7 @@ Dies ist aber kein Problem, da dies auch noch nicht auf heute geplant war.
 * Ich habe für eine saubere Ausgabe in der Konsole gesorgt.
 * Lerngespräch wurde durchgeführt.
 * Für manche Probleme wurde das Internet (nicht KI) verwendet.
-Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
+  Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 
 # 20.9.2024
 - [x] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
@@ -47,7 +47,7 @@ Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 * Ich habe vorhandene Fehler behoben.
 * Ich habe die vorgenommenen Extras auch ins Programm hinzugefügt.
 * Es gibt jetzt für jeden Fehler eine eigene Fehlermeldung und einen Zähler, wieviel du geraten hast.
-Mein Projekt ist jetzt so gut, wie fertig
+  Mein Projekt ist jetzt so gut, wie fertig
 
 Hier noch einen Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
