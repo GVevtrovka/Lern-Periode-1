@@ -52,7 +52,6 @@
 Hier noch einen Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
-
 # Reflexion
 - Ich bin mit meinem ersten Projekt sehr zufrieden, was das Ergebnis angeht.
 - Ich hatte während der Umsetzung aber oftmals Mommente gehabt, wo ich wegen einem logischen Fehler einfach stehen geblieben bin.
