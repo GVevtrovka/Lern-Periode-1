@@ -1,11 +1,3 @@
-﻿using System.ComponentModel.Design;
-using System.Data;
-using System.Globalization;
-using System.Numerics;
-using System.Security.Cryptography;
-using System.Xml;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
 internal class Program
 {
     private static void Main(string[] args)
@@ -47,7 +39,6 @@ internal class Program
                 Console.WriteLine("Right Number");
                 hello = true;
             }
-        }
-        
+        } 
     }
 }
