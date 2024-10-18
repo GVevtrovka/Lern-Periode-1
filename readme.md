@@ -31,8 +31,11 @@
 - [x] Zusätzlich möchte ich diese jetzt endgültig beheben, sodass das Programm fehlerlos funktioniert.
 - [x] Ich möchte das Programm dann noch erproben und abgeben
 
-Heute habe ich erfolgreich das "Grundprogramm Erarbeitet". Zusätzlich habe ich noch von der Ausgabe her geschaut, dass es auch übersichtlich und gut ausschaut.
-Ich habe heute Lerngespräch durchgefürt und im ganzen bin ich ziemlich zufrieden mit meinem heutigen Fortschritt. Ich habe für bestimmte Probleme das Internet (nicht Chat GPT) verwendet und mir auch etwas neues Wissen angeeignet.
+* Heute habe ich erfolgreich das "Grundprogramm Erarbeitet".
+* Ich habe für eine saubere Ausgabe in der Konsole gesorgt.
+* Lerngespräch wurde durchgeführt.
+* Für manche Probleme wurde das Internet (nicht KI) verwendet.
+Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 
 # 20.9.2024
 - [x] Ich werde ein Zähler hinzufügen für die anzahl versuche, welche getätigt wurden, um die Zahl zu erraten.
