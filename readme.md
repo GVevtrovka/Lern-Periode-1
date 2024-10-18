@@ -47,7 +47,8 @@ Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 * Ich habe vorhandene Fehler behoben.
 * Ich habe die vorgenommenen Extras auch ins Programm hinzugefügt.
 * Es gibt jetzt für jeden Fehler eine eigene Fehlermeldung und einen Zähler, wieviel du geraten hast.
-Man kann jetzt sagen, dass ich fertig bin mit meinem Projekt.
+Mein Projekt ist jetzt so gut, wie fertig
+
 Hier noch einen Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
