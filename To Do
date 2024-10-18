@@ -1,7 +1,7 @@
 Ein guter Start in die Lern-Periode! Ihre Reflexion finde ich gut; allerdings finde ich hier keinen Inhalt, weshalb sich meine Kommentare auf diese Datei beziehen.
 
  Ihre ganze github-Ablage ist etwas unordentlich. Wenn Sie Ihr github-Profil für die Bewerbung später einsetzen, macht der erste Eindruck, auch wenn es noch gar nicht um den Code geht, einiges aus; weshalb Sie folgende Kleinigkeiten erledigen:
-[ ] Machen Sie Ordnung bei Ihren Dateien. Für Ihr fertiges Projekt brauchen Sie eine .cs und eine .sln-Datei, den Rest können Sie löschen. Stellen Sie sicher, dass Ihre Code-Datei auch wirklich in .cs` endet; diese Datei tut das bspw. nicht.
+[x] Machen Sie Ordnung bei Ihren Dateien. Für Ihr fertiges Projekt brauchen Sie eine .cs und eine .sln-Datei, den Rest können Sie löschen. Stellen Sie sicher, dass Ihre Code-Datei auch wirklich in .cs` endet; diese Datei tut das bspw. nicht.
 [ ] Ihr readme wirkt auch etwas unprofessionell. Unterziehen Sie es einer Rechtschreibprüfung und korrigieren Sie alle Deutsch-Fehler.
 [ ] Achten Sie auf weitere Formalitäten: Sie verwenden unterschiedliche Titel (## 23.8.2024 vs. #6.9.2024), Sie haben ein leeres Kapitel, das Sie mit Inhalt befüllen können; Sie nummerieren die Fragen hier unkonventionell und haben dort noch Vorlagen-Text von mir stehen.
 [ ] Erstellen Sie zuletzt ein neues Kapitel ## fertiges Projekt, wo Sie erklären, was Ihr Number Guesser nun tatsächlich kann, und fügen Sie dort auch Ihr .gif ein.
