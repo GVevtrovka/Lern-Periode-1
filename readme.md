@@ -25,12 +25,14 @@
 - [x] Ich möchte das Programm heute womöglich so weit wie möglich bringen.
 - [x] Ich möchte es so weit bringen, dass ich das nächste Mal wenn möglich nur noch ausbessern muss.
 - [x] Ich muss heute herausfinden, wie die Grundlagen für den Vergleich von Zahlen funktioniert
+* Ich konnte heute einigermasse einen Fortschritt erzielen.
+* Ein gigantischer Fortschritt konnte aber noch nicht erzielt werden, da noch kein funktionierendes Programm entstand.
+Dies ist aber kein Problem, da dies auch noch nicht auf heute geplant war.
 
 # 13.9.2025
 - [x] Ergänzend müssen jetzt noch die letzten Fehler ins Visier genommen werden, also erkannt werden.
 - [x] Zusätzlich möchte ich diese jetzt endgültig beheben, sodass das Programm fehlerlos funktioniert.
 - [x] Ich möchte das Programm dann noch erproben und abgeben
-
 * Heute habe ich erfolgreich das "Grundprogramm Erarbeitet".
 * Ich habe für eine saubere Ausgabe in der Konsole gesorgt.
 * Lerngespräch wurde durchgeführt.
@@ -44,9 +46,6 @@ Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 Ich bin heute gut vorangekommen, habe allenfalls ein Paar fehler korrigiert und habe alle vorgenommenen Veränderungen erfolgreich umgesetzt und eine persönliche ergänzung noch angefügt. Die Heutigen Änderungen umfassen die Individuelle Fehlermeldung für bestimmte Fehlertypen und einen Zähler für die Anzahl Rateversuchen. In dem Sinne ist mein Projekt jetzt fertig und das sogar zeitlich! Mein Random-Number Guesser ist jetzt auch verständlich für Personen, welche den sinne des Random-Number Gueser noch nicht verstehen verständlich.
 Hier noch einen Einblick:
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
-✍️ Heute habe ich... (50-100 Wörter)
 
 
 # Reflexion
