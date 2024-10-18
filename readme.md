@@ -57,7 +57,7 @@ Im ganzen bin ich mit meinem Fortschritt aktuell ziemlich zufrieden.
 
 Mein Projekt ist jetzt so gut, wie fertig
 
-Hier noch einen Einblick:
+#Fertiges Projekt
 ![Aufzeichnung 2024-09-20 113129](https://github.com/user-attachments/assets/7aeda87d-23e2-4b01-b05d-ae5f21deb3d6)
 
 # Reflexion
